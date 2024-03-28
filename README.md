@@ -1,10 +1,11 @@
-### Ha
+### Gegroet
 
 Topics of interest: 
-- Cognitive neuroscience
-- Computational neuroscience
-- Predictive brain
+- Computational cognitive neuroscience
+- Predictive processing
+- Visual perception
 - Consciousness
+- Cognitive modelling (EAMs, ANNs)
 
 
 <!--
