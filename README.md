@@ -3,9 +3,9 @@
 Topics of interest: 
 - Computational cognitive neuroscience
 - Predictive processing
+- Neuro-AI
 - Visual perception
-- Consciousness
-- Cognitive modelling (EAMs, ANNs)
+- Intuitive physics
 
 
 <!--
